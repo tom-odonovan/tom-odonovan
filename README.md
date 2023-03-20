@@ -1,15 +1,13 @@
-#<h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A highly dedicated front-end developer based in Sydney, Australia. I am fuelled by a deep passion for creating exceptional user experiences. With a strong focus on crafting visually stunning and intuitive interfaces</h3>
+<h1>Hi 👋, I'm Tom</h1>
+<h3>A front-end developer based in Sydney, Australia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-odonovan&label=Profile%20views&color=0e75b6&style=flat" alt="tom-odonovan" /> </p>
+<p>I've always had an inherent curiosity for exploring complex problems. It wasn't until I recently discovered coding that I was able to focus this energy into something worthwile. I'm fuelled by a deep passion for creating exceptional user experiences, with a strong focus on crafting visually stunning and intuitive interfaces</p>
 
-- 🔭I’m currently looking for work **as a junior software developer**
-
-- 🌱 I recently completed **a Software Engineering Immersive @ General Assembly**
-
-- 🤝 I’m looking to collaborate with **like minded individuals on creative projects that will have a meaningful positive impact.**
-
-- 📫 Got a question for me? **tom.odonovan01@gmail.com**
+🔭 I’m currently looking for work as a junior software developer<br>
+📚 I recently completed a Software Engineering Immersive @ <a href="https://generalassemb.ly/">General Assembly</a><br>
+🌱 I'm looking to expand my knowlege of React and Vue.js<br>
+🤝 I’m looking to collaborate with like minded individuals on creative projects that will have a meaningful positive impact.<br>
+📫 Got a question for me? **tom.odonovan01@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-odonovan&show_icons=true&locale=en" alt="tom-odonovan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tom-odonovan&" alt="tom-odonovan" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tom-odonovan&label=Profile%20views&color=0e75b6&style=flat" alt="tom-odonovan" /> </p>
