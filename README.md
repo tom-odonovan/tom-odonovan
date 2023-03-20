@@ -3,11 +3,11 @@
 
 <p>I've always had an inherent curiosity for exploring complex problems. It wasn't until I recently discovered coding that I was able to focus this energy into something worthwile. I'm fuelled by a deep passion for creating exceptional user experiences, with a strong focus on crafting visually stunning and intuitive interfaces</p>
 
-🔭 I’m currently looking for work as a junior software developer<br>
-📚 I recently completed a Software Engineering Immersive @ <a href="https://generalassemb.ly/">General Assembly</a><br>
-🌱 I'm looking to expand my knowlege of React and Vue.js<br>
-🤝 I’m looking to collaborate with like minded individuals on creative projects that will have a meaningful positive impact.<br>
-📫 Got a question for me? **tom.odonovan01@gmail.com**<br>
+🔭 &nbsp; I’m currently looking for work as a junior software developer<br>
+📚 &nbsp; I recently completed a Software Engineering Immersive @ <a href="https://generalassemb.ly/">General Assembly</a><br>
+🌱 &nbsp; I'm looking to expand my knowlege of React and Vue.js<br>
+🤝 &nbsp; I’m looking to collaborate with like minded individuals on creative projects that will have a meaningful positive impact.<br>
+📫 &nbsp; Got a question for me? **tom.odonovan01@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
