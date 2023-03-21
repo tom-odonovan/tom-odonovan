@@ -5,7 +5,7 @@
 
 🔭 &nbsp; I’m currently looking for work as a junior software developer<br>
 📚 &nbsp; I recently completed a Software Engineering Immersive @ <a href="https://generalassemb.ly/">General Assembly</a><br>
-🌱 &nbsp; I'm looking to expand my knowlege of React and Vue.js<br>
+🌱 &nbsp; I'm looking to expand my knowlege of React and Next.js<br>
 🤝 &nbsp; I’m looking to collaborate with like minded individuals on creative projects that will have a meaningful positive impact.<br>
 📫 &nbsp; Got a question for me? **tom.odonovan01@gmail.com**<br>
 
