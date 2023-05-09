@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Tom</h1>
-<h3>A front-end developer based in Sydney, Australia.</h3>
+<h3>A software developer based in Sydney, Australia.</h3>
 
 <p>I've always had an inherent curiosity for exploring complex problems. It wasn't until I recently discovered coding that I was able to focus this energy into something worthwile. I'm fuelled by a deep passion for creating exceptional user experiences, with a strong focus on crafting visually stunning and intuitive interfaces</p>
 
