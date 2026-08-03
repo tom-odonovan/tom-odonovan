@@ -18,10 +18,6 @@ My current interests include:
 
 ## Selected Work
 
-#### [Agent Skills](https://github.com/tom-odonovan/agent-skills)
-- A version-controlled system of reusable AI skills for planning,
-implementation, review, architecture, Jira, and documentation workflows.
-
 #### [By The Sea Landscaping](https://bythesealandscapes.com)
 - A production website built for a Sydney landscaping business using
 Next.js, React, Tailwind CSS, and Framer Motion.
